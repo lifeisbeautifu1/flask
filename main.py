@@ -1,6 +1,5 @@
 import sys
 from PIL import Image as im
-import cv2
 import os
 import tensorflow as tf
 import numpy as np
